@@ -21,16 +21,18 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "BOTNAME": "ST2B Messenger Chatbot",
+  "PREFIX": "!",
   "ADMINBOT": [
-    "YOUR_FB_UID",
-    "OTHER_FB_UID"
+    "100021841890220",
+    "100027425139338",
+    "100019185276416",
+    "100033573800984"
   ],
   "DESIGN": {
-    "Title": "BotPack",
-    "Theme": "Blue",
-    "Admin": "YOUR_NAME",
+    "Title": "Messenger Chatbot",
+    "Theme": "Retro",
+    "Admin": "Josh Viacruzes",
     "Setup": {
       "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
       "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
